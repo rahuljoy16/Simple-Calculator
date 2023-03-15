@@ -1,2 +1,2 @@
 # Simple-Calculator
-A simple calculator where different types of computations can be made.
+A simple calculator where endless types of computations can be made.
